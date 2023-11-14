@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arnab Das aka @Dasistrichtig
 - 👀 I’m interested in anything related to IT.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 You can reach me on 📩 arnabonlyn@gmail.com
 
 <!---
